@@ -4,4 +4,4 @@
 
 Based on [Creating a Range Slider](https://www.w3schools.com/howto/howto_js_rangeslider.asp)
 
-Added decimal step based on Mozilla's [<input type="range">](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/range)
+Added decimal step based on Mozilla's [&lt;input type="range"&gt;](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/range)
